@@ -1,0 +1,6 @@
+framework module Pods_RandomCo_RandomCoUITests {
+  umbrella header "Pods-RandomCo-RandomCoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
